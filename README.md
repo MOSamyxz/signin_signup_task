@@ -1,16 +1,15 @@
 # signin_signup_task
 
-A new Flutter project.
+A new Flutter project to study and practice.
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+#Sign in Screen
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![image](https://github.com/MOSamyxz/signin_signup_task/assets/65774941/6b742658-415a-44ee-afdb-801945e0bba5)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#Sign up Screen
+
+![image](https://github.com/MOSamyxz/signin_signup_task/assets/65774941/2bf40462-2f3e-43a0-aaf0-a04a96e75990)
